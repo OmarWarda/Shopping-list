@@ -8,6 +8,14 @@ https://github.com/OmarWarda/Shopping-list/assets/111141647/5aae90b7-0985-4e7a-9
 
 The Shopping List App is a mobile application developed using Dart and Flutter, with data storage and retrieval powered by Firebase. This app allows users to create, view, and manage their shopping lists with ease.
 
+
+## Table of Contents
+
+- [Features](#features)
+- [Installation](#Prerequisites)
+- [Installation](#installation)
+- [Usage](#usage)
+
 ## Features
 
 - **Add and Remove Items**: Easily add and remove grocery items from your shopping list.
@@ -31,3 +39,10 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
    ```bash
    git clone https://github.com/OmarWarda/Shopping-list.git
+
+
+### Usage
+
+1. Add items to your shopping list.
+2. Swipe left on an item to delete it.
+3. View and manage your shopping list in real-time.
