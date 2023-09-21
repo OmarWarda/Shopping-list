@@ -10,8 +10,6 @@ The Shopping List App is a mobile application developed using Dart and Flutter, 
 
 ## Features
 
-- **Real-time Data**: Real-time synchronization of shopping lists across multiple devices.
-
 - **Add and Remove Items**: Easily add and remove grocery items from your shopping list.
 
 - **Swipe to Delete**: Delete items by swiping them, providing a convenient user experience.
