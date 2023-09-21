@@ -1,48 +1,16 @@
-# Shopping List App
+# shopping_app
 
+A new Flutter project.
 
-https://github.com/OmarWarda/Shopping-list/assets/111141647/5aae90b7-0985-4e7a-9378-35db1245ded9
+## Getting Started
 
+This project is a starting point for a Flutter application.
 
-## Overview
+A few resources to get you started if this is your first Flutter project:
 
-The Shopping List App is a mobile application developed using Dart and Flutter, with data storage and retrieval powered by Firebase. This app allows users to create, view, and manage their shopping lists with ease.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#Prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-
-## Features
-
-- **Add and Remove Items**: Easily add and remove grocery items from your shopping list.
-
-- **Swipe to Delete**: Delete items by swiping them, providing a convenient user experience.
-
-- **Data Storage**: All shopping list data is stored securely in Firebase Firestore.
-
-- **Responsive UI**: A responsive and intuitive user interface designed with Flutter.
-
-
-### Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-
-- Flutter and Dart installed on your development environment.
-- Firebase project set up with Firestore enabled.
-
-### Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/OmarWarda/Shopping-list.git
-
-
-### Usage
-
-1. Add items to your shopping list.
-2. Swipe left on an item to delete it.
-3. View and manage your shopping list in real-time.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
